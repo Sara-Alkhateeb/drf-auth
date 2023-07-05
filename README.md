@@ -1,6 +1,6 @@
-# RESTfull-Docker
+# Permissions- Postgres
 
-# LAB - Class 31
+# LAB - Class 32
 
 ## Project: planes_project
 
