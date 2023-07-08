@@ -1,6 +1,6 @@
-# Permissions- Postgres
+# Authentication & Production Server
 
-# LAB - Class 32
+# LAB - Class 33
 
 ## Project: planes_project
 
